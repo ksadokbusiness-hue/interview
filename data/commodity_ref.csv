@@ -1,0 +1,4 @@
+commodity,label,market,unit,price_min_eur_mwh,price_max_eur_mwh,active
+POWER_FR,Électricité France,POWER,MWh,0,300,True
+GAS_TTF,Gaz TTF,GAS,MWh,5,150,True
+LNG_JKM,GNL JKM,GAS,MWh,5,150,True
